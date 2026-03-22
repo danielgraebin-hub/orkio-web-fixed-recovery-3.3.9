@@ -1,0 +1,1 @@
+import React from "react"; export default function PrivacySettings(){ return <div style={{padding:24}}>Privacy settings</div>; }
